@@ -1,0 +1,1 @@
+Hoje aprendi sobre os comandos básicos do Git, como git init, git add e git commit.
